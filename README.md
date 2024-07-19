@@ -5,7 +5,7 @@ FindBest | Node.js,Express,Reactjs,TailwindCSS\
 • By utilizing the Cheerio and Puppeteer libraries that extract data from various websites for medicine,clothing,SmartPhone and grocery, collect imp info such as product details, prices.
 #Video Demo
 
-[Screencast from 14-07-24 04_07_44 PM IST.webm]
+
 
 # Getting Started with Create React App
 
